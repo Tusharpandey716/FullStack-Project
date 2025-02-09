@@ -1,0 +1,17 @@
+{
+    "name": "editor.io-master",
+    "version": "1.0.0",
+    "description": "A project for an online code editor",
+    "main": "index.js",
+    "dependencies": {
+      "react": "^17.0.1",
+      "react-dom": "^17.0.1",
+      "react-scripts": "4.0.3"
+    },
+    "scripts": {
+      "start": "react-scripts start"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
